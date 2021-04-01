@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="connection_error_message">Connection Error</string>
+</resources>
